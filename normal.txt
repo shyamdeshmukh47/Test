@@ -1,0 +1,130 @@
+ 1  apt - get install git
+    2  apt -get install git
+    3  apt-get install git
+    4  sude apt-get install git
+    5  [3:58 PM] Sagar Anturkar
+    6      sudo apt-get install git
+    7  sudo apt-get install git
+    8  su-apt-get install sudo -y
+    9  su-apt-get install sudo-y
+   10  su-
+   11  su -
+   12  apt-get install sudo-y
+   13  apt-get install sudo -y
+   14  su -
+   15  Su -
+   16  gitbash https://gitlab.com/santurkar/asil_lin_stack
+   17  https://gitlab.com/santurkar/asil_lin_stack
+   18  git clone https://gitlab.com/santurkar/asil_lin_stack
+   19  git clone https://gitlab.com/santurkar/asil_lin_stack
+   20  git config –global user.email “shyam.deshmukh@verolt.com”
+   21   git config -global user.email “shyam.deshmukh@verolt.com”
+   22  git init
+   23  git init
+   24  git clone
+   25  git commit -m "First commit"
+   26  git clone https://gitlab.com/santurkar/asil_lin_stack
+   27  git config --global "shyam.deshmukh@verolt.com"
+   28  git init https://gitlab.com/santurkar/asil_lin_stack
+   29  git init gitlab.com/santurkar/asil_lin_stack
+   30  git clone https://gitlab.com/santurkar/asil_lin_stack
+   31  git commit -m "first commit"
+   32  git status
+   33  git status
+   34  git diff
+   35  git log
+   36  git checkout  b98b4a862d28724eba626cf84463829db617a41d
+   37  git status
+   38  git checkout master
+   39  git status
+   40  git add  New Text Document.txt
+   41  git status
+   42  git add .
+   43  git status
+   44  git log
+   45  git commit -m "testing"
+   46  git branch Lin_stack
+   47  git checkout Lin_stack
+   48  git  status
+   49  git stash
+   50  git checkout master
+   51  git stash
+   52  git status
+   53  git clone https://gitlab.com/santurkar/asil_lin_stack
+   54  git status
+   55  git status
+   56  git diff
+   57  git log
+   58  git checkout master
+   59  git status
+   60  git difff
+   61  git diff
+   62  git log
+   63  git checkout b98b4a862d28724eba626cf84463829db617a41d
+   64  git checkout master
+   65  git add.
+   66  git status
+   67  git commit -m "First"
+   68  git status
+   69  git clone https://gitlab.com/santurkar/asil_lin_stack
+   70  git clone https://gitlab.com/santurkar/asil_lin_stack
+   71  git status
+   72  git log
+   73  git branch Lin_Stack
+   74  git checkout Lin_Stack
+   75  git add.
+   76  git add
+   77  git add.Lin_Stack
+   78  git add.C:\Users\Admin\Desktop\Shyam_Verolt\31032020
+   79  git status
+   80  git add
+   81  git add .
+   82  git status
+   83  git status
+   84  git clone https://gitlab.com/santurkar/asil_lin_stack
+   85  mkdir Lin_Stack
+   86  mkdir demo
+   87  cd demo
+   88  echo "#Demo" >> README.md
+   89  cat README.md
+   90  git init
+   91  git add README.md
+   92  cd..
+   93  git bash sudo  apt-get install git
+   94  git bash sudo  apt-get install git/global setup/
+   95  mkdir alsd
+   96  cd alsd
+   97  git clone https://gitlab.com/santurkar/asil_lin_stack
+   98  ls
+   99  cd asil_lin_stack/
+  100  ls
+  101  git status
+  102  git add
+  103  git add .
+  104  git commit -m "updated e2e profile added lin slave"
+  105   git config --global user.email "you@example.com"
+  106  git config --global user.email "shyam.deshmukh@verolt.com"
+  107  git config --global user.name "shyam.deshmukh"
+  108  git push
+  109  git status
+  110  git status
+  111  git add .
+  112  git commit -m "updated e2e profile added lin slave"
+  113  git push
+  114  mkdir test
+  115  cd test
+  116  git clone https://gitlab.com/santurkar/asil_lin_stack.git
+  117  cd asil_lin_stack/
+  118  git pull
+  119  git config --global user.name "shyam.deshmukh"
+  120  git config --global user.email "shyam.deshmukh@verolt.com"
+  121  ssh-keygen -t ed25519 -C "shyam.deshmukh@verolt.com"
+  122  cat ~/.ssh/id_ed25519.pub | clip
+  123  cd test
+  124  cd asil_lin_stack/
+  125  git status
+  126  git add
+  127  git add Sources/ete/E2E_P01.c
+  128  git commit -m "indentation for E2E Profile 1"
+  129  git push
+  130  history
